@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+img{
+    width: 200px;
+	height: 250px;
+    float: right;
+    margin: 15px;
+}
+.a{
+	color: #08FDD8;
+	background-color: transparent;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 5px;
+}
+#q{
+	color: red;
+	font-size: 18px;
+	text-align: center;
+	margin: 5px;
+}
+body,html{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+}
+.background{
+	background-image: url(ocean.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
